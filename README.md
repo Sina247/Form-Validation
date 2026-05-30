@@ -12,3 +12,8 @@ Form Validation is a crucial feature that ensures user inputs are accurate, comp
 - 🎨 **Customizable Styles** : Easily modify error messages, colors and animation via CSS.  
 - 🔌 **Easy Integration** : Simple to add to any project or website with minimal setup.  
 - 🛠️ **Cross Browser Compatible** : Supports all modern browsers for consistent behavior.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="942" alt="Screenshot 2026-05-30 084727" src="https://github.com/user-attachments/assets/e1b939d2-f893-43b2-b987-a7596d5d2c75" />
